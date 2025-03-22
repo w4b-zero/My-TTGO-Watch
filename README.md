@@ -1,3 +1,7 @@
+This is a Fork from [https://github.com/sharandac/My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch)!
+Please use the original repository! 
+This fork is just for my experiments with my LILYGO T-Watch V3!
+
 <p align="center">
 <img src="https://img.shields.io/github/last-commit/sharandac/My-TTGO-Watch.svg?style=for-the-badge" />
 &nbsp;
